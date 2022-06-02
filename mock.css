@@ -43,6 +43,10 @@ h3 {
   grid-area: 3 / 2 / 4 / 3;
   place-self: center;
 }
+section#content-slider {
+    max-width: 820px;
+    width: 100%;
+}
 /* @media (max-width:1200px) {
 
 } */
